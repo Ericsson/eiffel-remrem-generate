@@ -5,10 +5,10 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <groupId>com.github.eiffel-community</groupId>
-        <artifactId>eiffel-remrem-generate</artifactId>
+        <artifactId>eiffel-remrem-generate-root</artifactId>
         <version>${eiffel-remrem-generate.version}</version>
     </parent>
-    <artifactId>generate-service</artifactId>
+    <artifactId>eiffel-generate-service</artifactId>
     <packaging>war</packaging>
     <dependencies>
         <dependency>

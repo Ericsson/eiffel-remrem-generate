@@ -14,7 +14,7 @@
         <eiffel-remrem-shared.version>2.0.5</eiffel-remrem-shared.version>
         <eiffel-remrem-semantics.version>2.1.0</eiffel-remrem-semantics.version>
     </properties>
-    <artifactId>eiffel-remrem-generate</artifactId>
+    <artifactId>eiffel-remrem-generate-root</artifactId>
     <version>${eiffel-remrem-generate.version}</version>
     <packaging>pom</packaging>
     <dependencyManagement> 
